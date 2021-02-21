@@ -37,6 +37,9 @@ Apaixonada por tecnologia e pela possibilidade de transformar um pouquinho a vid
 [![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=plastic&logofor-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
 
 
+## Operational themes
+
+
 ## Hosting | SaaS | PaaS
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=plastic&logofor-the-badge&logo=Amazon%20AWS&logoColor=FF9900)](https://aws.amazon.com/)
 
