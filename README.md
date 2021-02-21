@@ -22,6 +22,7 @@ Apaixonada por tecnologia e pela possibilidade de transformar um pouquinho a vid
 [![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 [![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)
 [![PHP](https://img.shields.io/static/v1?label=PHP&style=for-the-badge&message=3.0.8&color=787CB5&logo=php)](https://en.wikipedia.org/wiki/PHP)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 
 ## Frameworks | Libraries | APIs
