@@ -15,6 +15,8 @@
 [![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)](https://en.wikipedia.org/wiki/JavaScript)
 [![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)](https://en.wikipedia.org/wiki/Python_(programming_language))
 
+<hr>
+
 ### Frameworks | Libraries | APIs
 [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
 [![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)](https://en.wikipedia.org/wiki/JQuery)
