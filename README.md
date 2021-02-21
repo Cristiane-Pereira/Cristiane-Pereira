@@ -57,4 +57,6 @@
 ## Design | Wireframes
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=plastic&logofor-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html)
 
-[![Cristiane github stats](https://github-readme-stats.vercel.app/api?username=Cristiane-Pereira&layout=compact&theme=radical)](https://github.com/Cristiane-Pereira) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiane-Pereira&layout=compact&theme=radical)](https://github.com/Cristiane-Pereira/github-readme-stats)
+<br>
+
+[![Cristiane github stats](https://github-readme-stats.vercel.app/api?username=Cristiane-Pereira&theme=radical)](https://github.com/Cristiane-Pereira) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiane-Pereira&layout=compact&theme=radical)](https://github.com/Cristiane-Pereira/github-readme-stats)
