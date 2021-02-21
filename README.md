@@ -1,8 +1,9 @@
-## # Hello, welcome to my GitHub page!👋🏻❤️, I'm Cristiane Pereira da Silva
+## # Hello, welcome to my GitHub page!👋🏻, I'm Cristiane Pereira da Silva
 
 🤝📧 Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-henrique-sg/)](www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=plastic&logo=Gmail&logoColor=white&link=mailto:diego.reports@gmail.com)](cristiane.pereira901113@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=http://github.com/guiavelinosouza)](https://github.com/Cristiane-Pereira)
 
+<br><br>
 
 ### Programming Languages/Frameworks I'm currently learning 
 [![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=3.0.8&color=lightblue&logo=react)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
