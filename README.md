@@ -16,6 +16,7 @@ Apaixonada por tecnologia e pela possibilidade de transformar um pouquinho a vid
 [![React](https://img.shields.io/static/v1?label=React&style=plastic&logofor-the-badge&message=3.0.8&color=lightblue&logo=react)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 [![Python](https://img.shields.io/static/v1?label=Python&style=plastic&logofor-the-badge&message=3&color=3776AB&logo=PYTHON)](https://en.wikipedia.org/wiki/Python_(programming_language))
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=plastic&logoflat-square&logo=Node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=plastic&logo&logo=react&logoColor=white)
 
 
 ## Programming Languages:
