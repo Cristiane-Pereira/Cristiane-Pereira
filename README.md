@@ -3,7 +3,7 @@
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"'>
 </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=plastic&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=http://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-logo&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Olá!😄)](https://api.whatsapp.com/send?phone=5511972471295text=Olá!😄)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=plastic&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logoColor=github&link=http://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-logo&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Olá!😄)](https://api.whatsapp.com/send?phone=5511972471295text=Olá!😄)
 
 
 ## Sobre Mim
