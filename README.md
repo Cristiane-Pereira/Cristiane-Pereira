@@ -38,7 +38,7 @@ Apaixonada por tecnologia e pela possibilidade de transformar um pouquinho a vid
 
 
 ## Operational themes
-
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=plastic&logo=windows&logoColor=white)
 
 ## Hosting | SaaS | PaaS
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=plastic&logofor-the-badge&logo=Amazon%20AWS&logoColor=FF9900)](https://aws.amazon.com/)
