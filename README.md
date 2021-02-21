@@ -1,6 +1,7 @@
 ##  Hello, welcome to my GitHub page!👋🏻, I'm Cristiane Pereira.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=plastic&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=http://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=plastic&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=http://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Olá!😄)](https://api.whatsapp.com/send?phone=5511972471295text=Olá!😄)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078d4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:nelson.dellosbel@edu.pucrs.br)](mailto:nelson.dellosbel@edu.pucrs.br)
 
 
 ## Sobre Mim
