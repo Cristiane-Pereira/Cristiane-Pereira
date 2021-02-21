@@ -59,4 +59,5 @@
 
 <br>
 
-[![Cristiane github stats](https://github-readme-stats.vercel.app/api?username=Cristiane-Pereira&theme=radical)](https://github.com/Cristiane-Pereira) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiane-Pereira&layout=compact&theme=radical)](https://github.com/Cristiane-Pereira/github-readme-stats)
+[![Cristiane github stats](https://github-readme-stats.vercel.app/api?username=Cristiane-Pereira&theme=radical)](https://github.com/Cristiane-Pereira)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiane-Pereira&layout=compact&theme=radical)](https://github.com/Cristiane-Pereira/github-readme-stats)
