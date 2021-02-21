@@ -42,7 +42,7 @@
 [![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=plastic&logofor-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
 
 
-## Operational themes
+## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=plastic&logo=windows&logoColor=white)
 
 ## Hosting | SaaS | PaaS
