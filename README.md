@@ -6,9 +6,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=plastic&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&&logo=Github&logoColor=white&link=https://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=plastic&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Olá!😄)](https://api.whatsapp.com/send?phone=5511972471295text=Olá!😄)
 
 
-## Sobre Mim
+## About me
 
-Apaixonada por tecnologia e pela possibilidade de transformar um pouquinho a vida das pessoas com ela, com grande vontade de sempre estar adquirindo conhecimento.
+⚛️ I'm 30 years old and I'm from São Paulo.
+😄 I really like to learn more and more!
+🌱 I’m currently learning about developing projects with APIs, Node.Js, React and React Native.
+I always try to keep myself updated with the technologies and tools of the moment.
+💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
+🎯 Focused in Front-end development.
 
 <br>
 
