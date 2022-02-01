@@ -8,7 +8,7 @@
 
 ## About me
 
-- 🙎🏻‍♀️ I'm 30 years old and I'm from São Paulo.
+- 🙎🏻‍♀️ I'm 31 years old and I'm from São Paulo.
 - 😄 I really like to learn more and more!
 - 🌱 I’m currently learning about developing projects with APIs, Node.Js, React and React Native.
      I always try to keep myself updated with the technologies and tools of the moment.
