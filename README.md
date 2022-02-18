@@ -19,24 +19,18 @@ I have experience and good experience in group work.
 
 <br>
 
-## Main techs
+## ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
                                              
-[![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=plastic&logofor-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=plastic&logofor-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
-[![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=plastic&logofor-the-badge&color=F7DF1E&logo=JavaScript)
-[![React](https://img.shields.io/static/v1?label=React&style=plastic&logofor-the-badge&message=3.0.8&color=lightblue&logo=react)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
-
-
-## Frameworks | Libraries | APIs
-[![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=plastic&logofor-the-badge&logo=Bootstrap&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
-[![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=plastic&logofor-the-badge&logo=jQuery&logoColor=21ACE2)](https://en.wikipedia.org/wiki/JQuery)
-
-
-## Version Control | Coding
-[![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=plastic&logofor-the-badge&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=plastic&logofor-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/randyaajr)
-[![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=plastic&logofor-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=plastic&logo=windows&logoColor=white)
