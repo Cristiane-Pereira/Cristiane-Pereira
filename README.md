@@ -14,7 +14,7 @@ Desktop and Web. I'm a proactive person and I'm always updating with new trends 
 available on the market. I develop systems without valuing quality, structural standards
 and good practices.
 I have experience and good experience in group work.   
-- 💜 I am very passionate about technologies and I am always looking for new lessons.
+- 💜 I am very passionate about technologies.
 - 🎯 Focused in Front-end development.
 
 <br>
