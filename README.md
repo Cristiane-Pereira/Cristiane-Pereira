@@ -19,14 +19,7 @@ I have experience and good experience in group work.
 
 <br>
 
-## Programming languages currently working
-[![PHP](https://img.shields.io/static/v1?label=PHP&style=plastic&logofor-the-badge&message=3.0.8&color=787CB5&logo=php)](https://en.wikipedia.org/wiki/PHP)
-[![Python](https://img.shields.io/static/v1?label=Python&style=plastic&logofor-the-badge&message=3&color=3776AB&logo=PYTHON)](https://en.wikipedia.org/wiki/Python_(programming_language))
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=plastic&logoflat-square&logo=Node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=plastic&logo=react&logoColor=white)
-
-
-## Programming Languages:
+## Programming languages currently workings:
                                              
 [![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=plastic&logofor-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=plastic&logofor-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
