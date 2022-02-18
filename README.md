@@ -10,9 +10,12 @@
 
 - 🙎🏻‍♀️ I'm 31 years old and I'm from São Paulo.
 - 😄 I really like to learn more and more!
-- 🌱 I’m currently learning about developing projects with APIs, Node.Js, React and React Native.
-     I always try to keep myself updated with the technologies and tools of the moment.
-- 💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
+- 🌱 I am a Front-end developer and I have experience and knowledge in systems development for
+Desktop and Web. I'm a proactive person and I'm always updating with new trends and technologies
+available on the market. I develop systems without valuing quality, structural standards
+and good practices.
+I have experience and good experience in group work.   
+- 💜 I am very passionate about technologies and I am always looking for new lessons.
 - 🎯 Focused in Front-end development.
 
 <br>
