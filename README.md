@@ -36,7 +36,7 @@ These are some of the Languages and Framework I work with:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
                                                                                                                           
 ## Languages and frameworks I've worked with:   
-![](https://img.shields.io/badge/-Vue-success)
+![](https://img.shields.io/badge/-Vue.js-success)
 ![](https://img.shields.io/badge/-PHP-inactive)
 
 ## Operational systems
