@@ -22,7 +22,7 @@ I have experience and good experience in group work.
  
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+These are some of the Languages and Framework I work with:
                                              
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -36,7 +36,7 @@ These are some of the technologies and tools that I work with:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
                                                                                                                           
 ## Languages and frameworks I've worked with:   
-![](https://img.shields.io/badge/-Vue.js?style=flat-square)
+![](https://img.shields.io/badge/-Vue-success)
 
 ## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=plastic&logo=windows&logoColor=white)
