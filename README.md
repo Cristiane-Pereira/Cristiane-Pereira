@@ -34,6 +34,9 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+                                                                                                                          
+## Languages and frameworks I've worked with:   
+![](https://img.shields.io/badge/-Vue.js?style=flat-square)
 
 ## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=plastic&logo=windows&logoColor=white)
