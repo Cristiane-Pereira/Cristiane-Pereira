@@ -15,10 +15,6 @@ and good practices.
 I have experience and good experience in group work.   
 - 💜 I am very passionate about technologies.
 - 🎯 Focused in Front-end development.
-
-<center>
-<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"'> 
-</center>
  
 ## ⚡ Technologies
 
@@ -59,6 +55,9 @@ These are some of the Languages and Framework I work with:
 
 [![Visits Badge](https://badges.pufler.dev/visits/Cristiane-Pereira/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira)
 [![Repos Badge](https://badges.pufler.dev/repos/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira?tab=repositories)
+<center>
+<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"'> 
+</center>
 
 <br>
 
