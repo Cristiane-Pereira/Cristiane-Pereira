@@ -53,6 +53,12 @@ These are some of the Languages and Framework I work with:
 
 ## Design | Wireframes
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=plastic&logofor-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html)
+     
+
+## 😇 My Github Stats:
+
+[![Visits Badge](https://badges.pufler.dev/visits/Cristiane-Pereira?style=for-the-badge)](https://github.com/Cristiane-Pereira)
+[![Repos Badge](https://badges.pufler.dev/repos/Cristiane-Pereira?style=for-the-badge)](https://github.com/Cristiane-Pereira?tab=repositories)
 
 <br>
 
