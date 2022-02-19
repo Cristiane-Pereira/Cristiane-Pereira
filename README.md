@@ -57,7 +57,7 @@ These are some of the Languages and Framework I work with:
 
 ## 😇 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/Cristiane-Pereira?style=for-the-badge)](https://github.com/Cristiane-Pereira)
+[![Visits Badge](https://badges.pufler.dev/visits/Cristiane-Pereira/Cristiane-Pereira?style=for-the-badge)](https://github.com/Cristiane-Pereira)
 [![Repos Badge](https://badges.pufler.dev/repos/Cristiane-Pereira?style=for-the-badge)](https://github.com/Cristiane-Pereira?tab=repositories)
 
 <br>
