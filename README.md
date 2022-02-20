@@ -66,6 +66,9 @@ These are some of the Languages and Framework I work with:
 |[![Cristiane github stats](https://github-readme-stats.vercel.app/api?username=Cristiane-Pereira&theme=midnight-purple#version3)](https://github.com/Cristiane-Pereira)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiane-Pereira&layout=compact&theme=midnight-purple#version3)](https://github.com/Cristiane-Pereira/github-readme-stats)|
 |-|-|
+                                                                                                                          
+|![](https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|                                                                                                                          
 
 ![](https://activity-graph.herokuapp.com/graph?username=blueedgetechno&theme=redical)
 
