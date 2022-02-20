@@ -1,5 +1,5 @@
 <h2>
-  Hello, welcome to my GitHub page!👋🏻, I'm Cristiane.
+   🙋 Hello, welcome to my GitHub page! I'm Cristiane 🌸
 </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](https://www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=flat-square&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&&logo=Github&logoColor=white&link=https://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Olá!😄)](https://api.whatsapp.com/send?phone=5511972471295text=Olá!😄)
@@ -25,8 +25,8 @@ These are some of the Languages and Framework I work with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logostyled-components&logoColor=white"/>
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/ildaneta/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
