@@ -58,5 +58,5 @@ These are some of the Languages and Framework I work with:
                                                                                                                        
 ![](https://activity-graph.herokuapp.com/graph?username=Cristiane-Pereira&theme=redical)
 
-![snake](https://raw.githubusercontent.com/Cristiane-Pereira/Cristiane-Pereira/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
 
