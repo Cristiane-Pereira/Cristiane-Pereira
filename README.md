@@ -30,6 +30,7 @@ These are some of the Languages and Framework I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=flat-square&logofor-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html)
                                                                                                                           
 ## Languages and frameworks I've worked with:   
 ![](https://img.shields.io/badge/-Vue.js-success)
@@ -38,18 +39,9 @@ These are some of the Languages and Framework I work with:
 ## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-## Hosting | SaaS | PaaS
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=flat-square&logofor-the-badge&logo=Amazon%20AWS&logoColor=FF9900)](https://aws.amazon.com/)
-
-
 ## Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=flat-square&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/3)
 [![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=flat-squarelogofor-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
-
-
-## Design | Wireframes
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=flat-square&logofor-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html)
-     
 
 ## 😇 My Github Stats:
 
@@ -66,5 +58,5 @@ These are some of the Languages and Framework I work with:
                                                                                                                        
 ![](https://activity-graph.herokuapp.com/graph?username=Cristiane-Pereira&theme=redical)
 
-![snake](https://raw.githubusercontent.com/Cristiane-Pereira/Cristiane-Pereira/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Cristiane-Pereira/output/github-contribution-grid-snake.svg)
 
