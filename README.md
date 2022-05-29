@@ -1,5 +1,5 @@
 <h2>
-   🙋 Hello, welcome to my GitHub page! I'm Cristiane 🌸
+  Hello 🙋, welcome to my GitHub page! I'm Cristiane!!!
 </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](https://www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=flat-square&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&&logo=Github&logoColor=white&link=https://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Olá!😄)](https://api.whatsapp.com/send?phone=5511972471295text=Olá!😄)
@@ -48,9 +48,9 @@ These are some of the Languages and Framework I work with:
 
 [![Visits Badge](https://badges.pufler.dev/visits/Cristiane-Pereira/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira)
 [![Repos Badge](https://badges.pufler.dev/repos/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira?tab=repositories)
-<center>
+<!-- <center>
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"'> 
-</center>
+</center> -->
                                                                                                                           
 <br>
                                                                                                                          
