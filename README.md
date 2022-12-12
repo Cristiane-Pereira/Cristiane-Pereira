@@ -7,7 +7,7 @@
 
 ## About me
 
-- 🙎🏻‍♀️ I'm 31 years old and I'm from São Paulo.
+- 🙎🏻‍♀️ I'm 32 years old and I'm from São Paulo.
 - 🌱 I am a Front-end developer and I have experience and knowledge in systems development for
 Desktop and Web. I'm a proactive person and I'm always updating with new trends and technologies
 available on the market. I develop systems without valuing quality, structural standards
