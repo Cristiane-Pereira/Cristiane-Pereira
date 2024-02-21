@@ -2,12 +2,12 @@
   Hello 🙋, welcome to my GitHub page! I'm Cristiane!!!
 </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](https://www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=flat-square&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&&logo=Github&logoColor=white&link=https://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Olá!😄)](https://api.whatsapp.com/send?phone=5511972471295text=Olá!😄)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](https://www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=flat-square&logo=Gmail&logoColor=white&link=cristiane.pereira901113@gmail.com)](cristiane.pereira901113@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&&logo=Github&logoColor=white&link=https://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Ola)
 
 
 ## About me
 
-- 🙎🏻‍♀️ I'm 32 years old and I'm from São Paulo.
+- 🙎🏻‍♀️ I'm 33 years old and I'm from São Paulo.
 - 🌱 I am a Front-end developer and I have experience and knowledge in systems development for
 Desktop and Web. I'm a proactive person and I'm always updating with new trends and technologies
 available on the market. I develop systems without valuing quality, structural standards
@@ -40,9 +40,9 @@ These are some of the Languages and Framework I work with:
 ## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-## Databases
+<!--## Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=flat-square&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/3)
-[![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=flat-squarelogofor-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=flat-squarelogofor-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/) -->
 
 ## 😇 My Github Stats:
 
