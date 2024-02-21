@@ -39,6 +39,10 @@ These are some of the Languages and Framework I work with:
 ## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
+## Package manager
+[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)](https://yarnpkg.com/)
+[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+
 <!--## Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=flat-square&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/3)
 [![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=flat-squarelogofor-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/) -->
