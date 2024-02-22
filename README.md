@@ -19,7 +19,7 @@ I have experience and good experience in group work.
 
 These are some of the Languages and Framework I work with:
                                              
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -30,8 +30,19 @@ These are some of the Languages and Framework I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=flat-square&logofor-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html)
-                                                                                                                          
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=flat-square&logofor-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html) -->
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Styled Components](https://img.icons8.com/ios-filled/50/000000/styled-components.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/ios-glyphs/50/000000/github.png)
+![BitBucket](https://img.icons8.com/color/48/000000/bitbucket.png)
+![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
+
 ## Languages and frameworks I've worked with:   
 <!--![](https://img.shields.io/badge/-Vue.js-success)
 ![](https://img.shields.io/badge/-PHP-inactive) -->
