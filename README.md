@@ -57,7 +57,12 @@ These are some of the Languages and Framework I work with:
 ## Package manager
 <!--[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
 [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)-->
-![NPM Badge](https://icons8.com/icon/1VuwsQVEpfkq/npm-a-package-manager-for-the-javascript-programming-language)
+[Yarn](https://yarnpkg.com/)
+<img src="https://img.icons8.com/ios-filled/50/000000/yarn.png" alt="Yarn" width="24"/>
+
+[NPM](https://www.npmjs.com/)
+<img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" width="24"/>
+
 
 <!--## Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=flat-square&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/3)
