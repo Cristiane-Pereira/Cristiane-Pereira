@@ -61,7 +61,7 @@ These are some of the Languages and Framework I work with:
 <img src="https://img.icons8.com/ios-filled/50/000000/yarn.png" alt="Yarn" width="24"/>
 
 [NPM](https://www.npmjs.com/)
-<img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" width="24"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" width="48"/>
 
 
 <!--## Databases
