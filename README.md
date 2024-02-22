@@ -49,6 +49,9 @@ These are some of the Languages and Framework I work with:
 ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
+[Nuxt.js](https://nuxtjs.org/)
+![Nuxt.js](URL_DO_ÍCONE_DO_NUXTJS)
+
 
 ## Operational systems
 <!--![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)-->
