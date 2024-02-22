@@ -51,7 +51,8 @@ These are some of the Languages and Framework I work with:
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
 
 ## Operational systems
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+<!--![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)-->
+![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 
 ## Package manager
 [![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
