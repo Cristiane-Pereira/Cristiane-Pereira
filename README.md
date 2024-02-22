@@ -33,10 +33,11 @@ These are some of the Languages and Framework I work with:
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=flat-square&logofor-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html)
                                                                                                                           
 ## Languages and frameworks I've worked with:   
-![](https://img.shields.io/badge/-Vue.js-success)
-![](https://img.shields.io/badge/-PHP-inactive)
+<!--![](https://img.shields.io/badge/-Vue.js-success)
+![](https://img.shields.io/badge/-PHP-inactive) -->
+![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-
+![PHP](https://img.icons8.com/color/48/000000/php.png)
 
 ## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
