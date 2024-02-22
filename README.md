@@ -6,11 +6,11 @@
 
 ## About me
 
-🙎🏻‍♀️ Sou uma desenvolvedora Front-end de 33 anos, com vasta experiência em desenvolvimento de sistemas para Desktop e Web. Sou uma pessoa proativa, sempre atualizada com as últimas tendências e tecnologias disponíveis no mercado. Tenho um forte compromisso com a qualidade, seguindo padrões estruturais e boas práticas de desenvolvimento.
+• 👩🏻‍💻 Olá! Me chamo Cristiane, tenho 33 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade. Como desenvolvedora Front-end, tenho paixão por criar experiências digitais incríveis e funcionais. Minha jornada no desenvolvimento Front-end me permite combinar minha habilidade técnica com minha criatividade para construir interfaces de usuário intuitivas e atraentes. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para fornecer soluções inovadoras. Vamos criar algo incrível juntos!
 
 Tenho habilidades sólidas em trabalhar em equipe e desfruto colaborando em projetos conjuntos. Sou apaixonada por tecnologia e estou sempre buscando aprimorar minhas habilidades nessa área.
 
-🎯 Meu foco principal está no desenvolvimento Front-end, onde aplico meu conhecimento e paixão para criar experiências digitais envolventes e de alta qualidade.
+• 🎯 Meu foco principal está no desenvolvimento Front-end, onde aplico meu conhecimento e paixão para criar experiências digitais envolventes e de alta qualidade.
 
 
  
