@@ -62,7 +62,7 @@ These are some of the Languages and Framework I work with:
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=flat-square&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/3)
 [![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=flat-squarelogofor-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/) -->
 
-## 😇 My Github Stats:
+<!-- ## 😇 My Github Stats:-->
 
 <!-- ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)[![Visits Badge](https://badges.pufler.dev/visits/Cristiane-Pereira/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira)
 [![Repos Badge](https://badges.pufler.dev/repos/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira?tab=repositories)
