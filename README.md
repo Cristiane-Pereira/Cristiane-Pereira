@@ -55,10 +55,8 @@ These are some of the Languages and Framework I work with:
 ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 
 ## Package manager
-<!--[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
-[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)-->
-[Yarn](https://yarnpkg.com/)
-<img src="https://img.icons8.com/ios-filled/50/000000/yarn.png" alt="Yarn" width="24"/>
+[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
+[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)
 
 [NPM](https://www.npmjs.com/)
 <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" width="48"/>
@@ -78,9 +76,7 @@ These are some of the Languages and Framework I work with:
                                                                                                                           
 <br>
                                                                                                                          
-|![](https://github-readme-stats.vercel.app/api?username=Cristiane-Pereira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiane-Pereira&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|                                                                                                                          
-                                                                                                                       
+|![](https://github-readme-stats.vercel.app/api?username=Cristiane-Pereira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiane-Pereira&layout=compact&theme=tokyonight&langs_count=10)                                                                                                                                                                                                                                             
 ![](https://activity-graph.herokuapp.com/graph?username=Cristiane-Pereira&theme=redical)
 
 ![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
