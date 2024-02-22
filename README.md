@@ -35,6 +35,8 @@ These are some of the Languages and Framework I work with:
 ## Languages and frameworks I've worked with:   
 ![](https://img.shields.io/badge/-Vue.js-success)
 ![](https://img.shields.io/badge/-PHP-inactive)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+
 
 ## Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
