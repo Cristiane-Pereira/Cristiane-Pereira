@@ -1,12 +1,12 @@
 <h2>
-  Hello 🙋, welcome to my GitHub page!
+  Olá 🙋, seje bem vindo ao meu GitHub!
 </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](https://www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristiane.pereira901113@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&&logo=Github&logoColor=white&link=https://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Ola)](https://api.whatsapp.com/send?phone=5511972471295&text=Ola)
 
-## About me
+## Sobre mim
 
-• 👩🏻‍💻 Olá! Me chamo Cristiane, tenho 33 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade. Como desenvolvedora Front-end, tenho paixão por criar experiências digitais incríveis e funcionais. Minha jornada no desenvolvimento Front-end me permite combinar minha habilidade técnica com minha criatividade para construir interfaces de usuário intuitivas e atraentes. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para fornecer soluções inovadoras. Vamos criar algo incrível juntos!
+• 👩🏻‍💻 Olá! Me chamo Cristiane, tenho 33 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade. Tenho mais de 3 anos de experiência como desenvolvedora Front-end, e sou apaixonada por criar experiências digitais incríveis e funcionais. Minha jornada no desenvolvimento Front-end me permite combinar minha habilidade técnica com minha criatividade para construir interfaces de usuário intuitivas e atraentes. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para fornecer soluções inovadoras. Vamos criar algo incrível juntos!
 
 Tenho habilidades sólidas em trabalhar em equipe e desfruto colaborando em projetos conjuntos. Sou apaixonada por tecnologia e estou sempre buscando aprimorar minhas habilidades nessa área.
 
