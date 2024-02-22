@@ -1,5 +1,5 @@
 <h2>
-  Hello 🙋, welcome to my GitHub page! I'm Cristiane!!!
+  Hello 🙋, welcome to my GitHub page!
 </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-pereirasilva)](https://www.linkedin.com/in/cristiane-pereirasilva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23E4405F?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristiane.pereira901113@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&&logo=Github&logoColor=white&link=https://github.com/Cristiane-Pereira)](https://github.com/Cristiane-Pereira) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972471295&text=Ola)](https://api.whatsapp.com/send?phone=5511972471295&text=Ola)
@@ -55,8 +55,9 @@ These are some of the Languages and Framework I work with:
 ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 
 ## Package manager
-[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
-[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)
+<!--[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
+[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)-->
+![NPM Badge](https://icons8.com/icon/1VuwsQVEpfkq/npm-a-package-manager-for-the-javascript-programming-language)
 
 <!--## Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=flat-square&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/3)
