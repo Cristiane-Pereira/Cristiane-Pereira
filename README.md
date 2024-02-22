@@ -40,8 +40,8 @@ These are some of the Languages and Framework I work with:
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 ## Package manager
-[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/&border-radius=8)](https://yarnpkg.com/)
-[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/&border-radius=8)](https://www.npmjs.com/)
+[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
+[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)
 
 <!--## Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=flat-square&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/3)
