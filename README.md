@@ -68,9 +68,9 @@ These are some of the Languages and Framework I work with:
 
 ## 😇 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/Cristiane-Pereira/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira)
+<!-- ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)[![Visits Badge](https://badges.pufler.dev/visits/Cristiane-Pereira/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira)
 [![Repos Badge](https://badges.pufler.dev/repos/Cristiane-Pereira?style=flat-square)](https://github.com/Cristiane-Pereira?tab=repositories)
-<!-- <center>
+<center>
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"'> 
 </center> -->
                                                                                                                           
