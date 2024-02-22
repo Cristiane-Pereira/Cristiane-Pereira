@@ -37,7 +37,7 @@ These are some of the Languages and Framework I work with:
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Styled Components](https://img.icons8.com/ios-filled/50/000000/styled-components.png)
+![Styled Components](https://img.icons8.com/color/48/000000/styled-components.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/ios-glyphs/50/000000/github.png)
 ![BitBucket](https://img.icons8.com/color/48/000000/bitbucket.png)
