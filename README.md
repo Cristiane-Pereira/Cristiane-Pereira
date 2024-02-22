@@ -6,14 +6,13 @@
 
 ## About me
 
-- 🙎🏻‍♀️ I'm 33 years old and I'm from São Paulo.
-- 🌱 I am a Front-end developer and I have experience and knowledge in systems development for
-Desktop and Web. I'm a proactive person and I'm always updating with new trends and technologies
-available on the market. I develop systems without valuing quality, structural standards
-and good practices.
-I have experience and good experience in group work.   
-- 💜 I am very passionate about technologies.
-- 🎯 Focused in Front-end development.
+🙎🏻‍♀️ Sou uma desenvolvedora Front-end de 33 anos, com vasta experiência em desenvolvimento de sistemas para Desktop e Web. Sou uma pessoa proativa, sempre atualizada com as últimas tendências e tecnologias disponíveis no mercado. Tenho um forte compromisso com a qualidade, seguindo padrões estruturais e boas práticas de desenvolvimento.
+
+Tenho habilidades sólidas em trabalhar em equipe e desfruto colaborando em projetos conjuntos. Sou apaixonada por tecnologia e estou sempre buscando aprimorar minhas habilidades nessa área.
+
+🎯 Meu foco principal está no desenvolvimento Front-end, onde aplico meu conhecimento e paixão para criar experiências digitais envolventes e de alta qualidade.
+
+
  
 ## ⚡ Technologies
 
