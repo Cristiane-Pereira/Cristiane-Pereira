@@ -40,7 +40,7 @@ These are some of the Languages and Framework I work with:
 ![Styled Components](https://img.icons8.com/color/48/000000/styled-components.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/ios-glyphs/50/000000/github.png)
-![BitBucket](https://img.icons8.com/color/48/000000/bitbucket.png
+![BitBucket](https://img.icons8.com/color/48/000000/bitbucket.png)
 ![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
 
 ## Languages and frameworks I've worked with:   
