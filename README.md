@@ -14,9 +14,9 @@ Tenho habilidades sólidas em trabalhar em equipe e desfruto colaborando em proj
 
 
  
-## ⚡ Technologies
+## ⚡ Tecnologias
 
-These are some of the Languages and Framework I work with:
+Estas são algumas das linguagens e frameworks com os quais trabalho:
                                              
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -42,7 +42,7 @@ These are some of the Languages and Framework I work with:
 ![BitBucket](https://img.icons8.com/color/48/000000/bitbucket.png)
 ![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
 
-## Languages and frameworks I've worked with:   
+## Linguagens e frameworks com os quais trabalhei:   
 <!--![](https://img.shields.io/badge/-Vue.js-success)
 ![](https://img.shields.io/badge/-PHP-inactive) -->
 ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
@@ -50,11 +50,11 @@ These are some of the Languages and Framework I work with:
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
 ![Vite](https://img.icons8.com/color/48/000000/vite.png)
 
-## Operational systems
+## Sistemas operacionais
 <!--![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)-->
 ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 
-## Package manager
+## Ferramentas de gerenciamento
 [![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
 [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)
 
