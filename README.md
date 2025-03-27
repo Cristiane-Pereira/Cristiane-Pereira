@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-• 👩🏻‍💻 Olá! Me chamo Cristiane, tenho 33 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade. Tenho mais de 3 anos de experiência como desenvolvedora Front-end, e sou apaixonada por criar experiências digitais incríveis e funcionais. Minha jornada no desenvolvimento Front-end me permite combinar minha habilidade técnica com minha criatividade para construir interfaces de usuário intuitivas e atraentes. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para fornecer soluções inovadoras. Vamos criar algo incrível juntos!
+👩🏻‍💻 Olá! Me chamo Cristiane, tenho 34 anos e sou de São Paulo. Trabalho como desenvolvedora Front-end há 4 anos, criando soluções robustas e focadas em UX/UI. Tenho experiência em tecnologias como React, JavaScript, CSS, e frameworks como Material UI, e me dedico a construir interfaces de usuário intuitivas, responsivas e funcionais. Meu trabalho é sempre orientado por melhores práticas de performance e acessibilidade, buscando sempre melhorar a experiência do usuário. Estou constantemente aprendendo novas tecnologias para continuar inovando e entregar soluções que atendem às necessidades dos usuários e negócios. Vamos criar algo incrível juntos!
 
 Tenho habilidades sólidas em trabalhar em equipe e desfruto colaborando em projetos conjuntos. Sou apaixonada por tecnologia e estou sempre buscando aprimorar minhas habilidades nessa área.
 
