@@ -49,7 +49,8 @@ Estas são algumas das linguagens e frameworks com os quais trabalho:
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
 ![Vite](https://img.icons8.com/color/48/000000/vite.png)
-![Nuxt.js](https://img.icons8.com/color/48/000000/next-js.png)
+![Next.js](https://img.icons8.com/color/48/000000/next-js.png)
+![React Native](https://img.icons8.com/color/48/000000/react-native.png)
 
 ## Sistemas operacionais
 <!--![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)-->
