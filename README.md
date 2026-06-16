@@ -22,6 +22,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="250" src="https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357">
+
 ## 👩🏻‍💻 Sobre mim
 
 Olá! Me chamo Cristiane, tenho 35 anos e sou de Mairiporã - São Paulo.
